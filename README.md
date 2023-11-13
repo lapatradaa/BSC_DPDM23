@@ -1,7 +1,7 @@
 # BSC_DPDM23
 Data preparation and Data mining
 
-#Score
+# Score
 Midterm (data prepocessing ปฏิบัติ (เดี่ยว)) 20%
 Final(ทฤษฎี data mining เดี่ยว) 20%
 Project(data prepocessing + data mining (กลุ่ม)) 30%
