@@ -65,7 +65,7 @@ Click to slide [PresentHw4](https://www.canva.com/design/DAF9C1GY7jE/REur4COBG9Q
 
 # Midterm Exam
   **click to** [MidtermExam](https://github.com/lapatradaa/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
-# Final Project :information_desk_person:
+# Final Project 
 **Click to** [Link data](https://data.go.th/dataset/psdexercise?fbclid=IwAR241MtTa_aqxeEX2gFZAlnfME2VkEF00q0kHlXYdS_mMVnpJDK3yWDRzxU)
 
 **สมาชิก Group แต่งโตมาดแมนหุ่นปานดาราโก้ และ I Hate Monday** :busts_in_silhouette:
