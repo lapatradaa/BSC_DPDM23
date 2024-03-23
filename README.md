@@ -81,7 +81,7 @@ Click to slide [PresentHw4](https://www.canva.com/design/DAF9C1GY7jE/REur4COBG9Q
 ข้อมูล การออกกำลังกายหรือเล่นกีฬาของประชาชน
 
 + Slide นำเสนอข้อมูล วันที่ 26 feb 2567 [SlidePresentation](https://www.canva.com/design/DAF9xqlYyjs/tyB75gV4NpcVI6pW5zW90w/view?utm_content=DAF9xqlYyjs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-+ นำเสนอก่อนพรี วันที่ 4 Mar 2567 เป็นสไลด์เดียวกับสไลด์วันจริงแต่เป็นเวอร์ชั่นที่ยังแก้ไขไม่สมบูรณ์
++ นำเสนอก่อนพรี วันที่ 4 Mar 2567 
 + นำเสนอวันจริง วันที่ 6 Mar 2567  [Final_Project_Presentation](https://www.canva.com/design/DAF-VOd8sjk/LJe1w9Rb_qkuyT5ELjaA5w/view?utm_content=DAF-VOd8sjk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 + Code [FinalProject](https://github.com/lapatradaa/BSC_DPDM23/blob/main/Final_Project.ipynb)
