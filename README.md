@@ -1,4 +1,4 @@
-# BSC_DPDM23.
+# BSC_DPDM23
 Data Preprocessing and Data Mining 2023 
 Lapatrada Dangsungnoen (นางสาวลภัสรดา แดงสูงเนิิน) 
 Student No. 643020518-9 
